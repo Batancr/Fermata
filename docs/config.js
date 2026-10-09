@@ -1,0 +1,1 @@
+window.FERMATA_CONFIG={youtubeApiKey:"AIzaSyCL8W9WKdBfL8zebh5cKGBocryQEOwxyco"};
