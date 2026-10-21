@@ -1,0 +1,23 @@
+{
+  "name": "Fermata · timers that fit your music",
+  "short_name": "Fermata",
+  "description": "Set a timer and get a YouTube mix that lasts just as long. Track time on several projects at once.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef0fb",
+  "theme_color": "#5b47e6",
+  "categories": ["productivity", "music", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "Projects", "url": "./#projects", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Sleep", "url": "./#sleep", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
