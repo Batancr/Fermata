@@ -3,7 +3,7 @@
 // sites always go straight to the network and are never stored here.
 // Network first: when online you always get the newest version; the stored copy is only used offline. Files are
 // stored under their address without "?v=…" (publish.sh adds that to scripts), so each file is kept once.
-const CACHE = 'fermata-20261124-search-live-v1-5';
+const CACHE = 'fermata-20261119-live-v1-3';
 const SHELL = ['index.html', 'privacy.html', 'terms.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png',
   'config.js', 'sounds.js', 'logic.js', 'chess.js', 'party.js', 'scores.js', 'scenery.js', 'viz.js', 'app.js', 'focus.js', 'sleep.js', 'schedule.js', 'coins.js', 'break.js',
   'daylog.js', 'day.js', 'scene.js', 'account.js', 'library.js', 'recs.js', 'record.js', 'tour.js', 'glass.js', 'pwa.js'];
